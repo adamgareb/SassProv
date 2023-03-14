@@ -1,0 +1,17 @@
+h1 {
+  font-size: 40px;
+}
+
+button {
+  border-radius: 5px solid yellow;
+  background-color: aqua;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: purple;
+  background-color: aquamarine;
+}
+
+p {
+  color: red;
+}/*# sourceMappingURL=style.css.map */
